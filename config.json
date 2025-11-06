@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "intro-file-io",
+      "title": "Intro to File I/O",
+      "description": "Read from and write to files in Python; practice opening files, reading lines, and writing output.",
+      "path": "assignments/intro-file-io",
+      "dueDate": "2025-11-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
